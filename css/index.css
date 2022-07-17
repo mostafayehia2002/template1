@@ -283,7 +283,7 @@ z-index:-1;
         width:95%;
     } 
     #section1 .head1 h1{
-        font-size: 90px;
+        font-size: 60px;
     }
 }
 /**************start section2********portfolio****************/
@@ -325,10 +325,10 @@ flex-wrap: wrap;
             width:95%;
         } 
         #section2 .head2 h1{
-            font-size: 75px;
+            font-size: 60px;
         }
         #section2 .head2 p{
-            font-size: 14px;
+            font-size: 12px;
         }
 
       
